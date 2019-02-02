@@ -1,0 +1,18 @@
+激励函数：不能用线性方程所概括的问题
+
+y = Wx  --> y = AF(Wx)
+AF() --> relu、 sigmoid、 tanh
+
+少数网络层: 可多种选择
+卷积: relu
+rnn: relu and tanh
+
+
+Activation Functions
+tf.nn.relu
+tf.nn.relu6
+tf.nn.elu
+tf.nn.softplus
+tf.nn.sotfsign
+tf.nn.dropout
+
